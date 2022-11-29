@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "csharp"
+		},
+		{
+			"path": "ql"
+		},
+		{
+			"name": "[xmasdev-2022/xmaze-api source archive]",
+			"uri": "codeql-zip-archive://1-154/c:\\Users\\giorgio.lasala\\AppData\\Roaming\\Code - Insiders\\User\\workspaceStorage\\e6226f0395399e408e96d078287db174\\GitHub.vscode-codeql\\csharp\\csharp\\src.zip"
+		}
+	],
+	"settings": {
+		"omnisharp.autoStart": false
+	}
+}
